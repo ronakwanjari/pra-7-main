@@ -3,13 +3,13 @@ body{
     
 }
 div{
-    background-image: linear-gradient(red ,orange,yellow,green,blue,indigo,violet);
+    background-image: linear-gradient(orange,yellow);
     border:10px solid black;
     width: 95%;
-    margin: auto;
+    margin: 100px;
     margin-right: auto;
     margin-left: auto;
-    height: 200%;
+    height: 100%;
 }
 
  
