@@ -1,0 +1,15 @@
+body{
+    text-align: center;
+    
+}
+div{
+    background-image: linear-gradient(red ,orange,yellow,green,blue,indigo,violet);
+    border:10px solid black;
+    width: 95%;
+    margin: auto;
+    margin-right: auto;
+    margin-left: auto;
+    height: 200%;
+}
+
+ 
